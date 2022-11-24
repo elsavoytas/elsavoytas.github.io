@@ -3032,7 +3032,7 @@ input, select, textarea {
 				z-index: 10001;
 				background: #222;
 				color: #fff;
-				min-width: 320px;
+				min-width: 1199px;
 			}
 
 				#titleBar .title {
@@ -3258,7 +3258,7 @@ input, select, textarea {
 		/* Basic */
 
 			html, body {
-				min-width: 320px;
+				min-width: 1199px;
 			}
 
 			body, input, select, textarea {
