@@ -2626,14 +2626,14 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #115d96;
+				background-color: #5ed0b1;
 			}
 
 			input[type="submit"].primary:active,
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #115d96;
+				background-color: #39c29d;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #115d96;
+					border-top: solid 2px #5ccfb1;
 					display: block;
 					padding: 0;
 				}
