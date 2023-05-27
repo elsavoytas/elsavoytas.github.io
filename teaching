@@ -1,0 +1,101 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Elsa Voytas</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-104736648-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-104736648-1');
+</script>
+
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<header>
+					<span class="image avatar"><img src="images/avatar.jpg" alt="" /></span>
+					<h1 id="logo"><a href="#">Elsa Voytas</a></h1>
+					<p>Assistant Professor<br />
+					School of Politics, Economics, and Global Affairs<br />
+						IE University
+					</p>
+				</header>
+				<nav id="nav">
+					<ul>
+						<li><a href="#one" class="active">Home</a></li>
+						<li><a href="#two"research>Research</a></li>
+						<li><a href="#three">Teaching</a></li>
+						<li><a href="#four">CV</a></li>
+					</ul>
+				</nav>
+				<footer>
+					<ul class="icons">
+						<li><i class="fa fa-graduation-cap"></i></li>
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</footer>
+			</section>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="image main" data-position="center">
+									<img src="images/stained-glass-trees-elizabeth-robinette-tyndall.jpeg" alt="" />
+								</div>
+								<div class="container">
+									<header class="major">
+										<h2>Teaching</h2>
+									</header>
+<section id="three">
+								<div class="container">
+
+									<h3>Instructor of Record</h3>
+									<ul class="feature-icons">
+										<li class="icon solid fa-dove">Peace and Conflict Resolution. IE University. Spring 2023.</li>
+
+										<li class="icon solid fa-code">Research Methods in International Relations. IE University. Fall 2022.</li>
+										
+<li class="icon solid fa-landmark">Quantitative Approaches to Peace and Justice. Dartmouth College. Fall 2021.</li>
+										<li class="icon solid fa-globe"></i>Introduction to Comparative Politics. Rider University. Fall 2020.</li>
+
+										<h3>Teaching Assistant</h3>
+										<li class="icon solid fa-dove">Human Rights. Princeton University. Spring 2020. Instructor: Gary Bass.</li>
+										<li class="icon solid fa-globe">Introduction to Comparative Politics. Princeton University. Fall 2018. Instructor: Alisha Holland.</li>
+										<li class="icon solid fa-calculator">Introduction to Quantitative Social Science. Princeton University. Fall 2017. Instructors: Marc Ratkovic and Matt Salganik.</li>
+
+									</ul>
+
+								</div>
+							</section>
+
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
